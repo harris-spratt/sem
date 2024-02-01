@@ -1,1 +1,3 @@
 ![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/<username>/<repository>/<action file name>.yml?branch=<master branch>)
+[![LICENSE](https://img.shields.io/github/license/<harris-spratt>/sem.svg?style=flat-square)](https://github.com/<github-username>/sem/blob/master/LICENSE)
+[![Releases](https://img.shields.io/github/release/<harris-spratt>/sem/all.svg?style=flat-square)](https://github.com/<github-username>/sem/releases)
